@@ -14,7 +14,7 @@ The Expense Tracker System is a web application built using Java with the Spring
 - Postman tool for testing API endpoints
 - Git for version control
 
-## Api's endpoint
+## Api's endpoint for postman
 - List expenses :- http://localhost:8080/expenses
 - Getall expense:- http://localhost:8080/expenses/getall
 - Update expense:-http://localhost:8080/expenses/update/{id}
